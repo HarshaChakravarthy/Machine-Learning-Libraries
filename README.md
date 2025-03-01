@@ -27,8 +27,9 @@ This repository serves as a comprehensive guide to essential Python libraries fo
 - 🔹 Interactive Visualizations
 
 ### 4️⃣ **Seaborn – Statistical Data Visualization**  
--🔹 Statistical Plots (Box Plot, Violin Plot, Histogram, KDE)  
--🔹 Relationship Plots (Pairplots, Regression Plots)  
--🔹 Advanced Visualization (Heatmaps, FacetGrid)  
--🔹 Customizing Seaborn Styles & Themes  
--🔹 Integration with Pandas for Seamless Data Visualization 
+🔹 Statistical Plots (Box Plot, Violin Plot, Histogram, KDE)  
+🔹 Relationship Plots (Pairplots, Regression Plots)  
+🔹 Advanced Visualization (Heatmaps, FacetGrid)  
+🔹 Customizing Seaborn Styles & Themes  
+🔹 Integration with Pandas for Seamless Data Visualization  
+
